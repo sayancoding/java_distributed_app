@@ -10,6 +10,4 @@ public class ProductDetail {
     private String category;
 
     private String shortNotes;
-
-    private String description;
 }
