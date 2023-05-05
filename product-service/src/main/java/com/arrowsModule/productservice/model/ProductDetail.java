@@ -9,7 +9,5 @@ public class ProductDetail {
     private String productId;
     private String category;
 
-    private String shortNotes;
-
-    private String description;
+    private String comments;
 }
